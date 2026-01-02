@@ -1,0 +1,13 @@
+maven commands. mvc clean package spring-boot:run
+
+download and test your url using postman::: http://localhost:8080/api/ask and paste json data in body::: {
+  "question": "Explain RAG"
+} and
+
+
+Response you get is::: 200 OK::: Based on the retrieved documents:
+- RAG stands for Retrieval-Augmented Generation.
+- Spring Boot makes it easy to create stand-alone, production-grade Spring applications.
+
+Answer to your question [Explain RAG]:
+- RAG stands for Retrieval-Augmented Generation.
